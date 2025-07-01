@@ -12,7 +12,7 @@ I used Python to clean the data and prepare visualizations in Tableau Public.
 - **Tools Used:**  
   - 🐍 Python (pandas, Jupyter Notebook)  
   - 📊 Tableau Public  
-  - 🗂 GitHub
+
 
 ---
 
@@ -40,6 +40,15 @@ These files are available in the `/data` folder.
 
 ![Dashboard Preview](dashboard_preview.png)
 
+---
+
+## 📌 Conclusion
+
+- **Action** and **Shooter** genres dominate global sales, particularly in **North America** and **Europe**.
+- The **Top 5 genres globally** are: **Action, Shooter, Sports, Role-Playing, and Platform**.
+- Genres with the **lowest global sales** include: **Party, Puzzle, and Visual Novel**.
+- Global video game sales peaked between **2013 and 2017**, followed by a steady decline — possibly linked to the maturing PS4 market or shifting consumer behavior.
+- These insights underline the importance of **region-specific genre strategies** for game developers and marketers.
 
 
 
